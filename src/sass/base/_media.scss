@@ -1,0 +1,15 @@
+@media (max-width:991px) {
+    .advantages {
+        &__descr {
+            font-size: 12px;
+        }
+    }
+}
+
+@media (max-width:767px) {
+    .promo {
+        &_header {
+            font-size: 33px;
+        }
+    }
+}
